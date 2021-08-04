@@ -1,0 +1,32 @@
+body
+{
+    background-image: url(background.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.heading h3{
+    display: inline-block;
+    
+}
+.heading button
+{
+   float: center;
+   border: 1px solid white; 
+}
+.big_image
+{
+ width: 100%;
+}
+#start,#status
+{
+    font-size: 22px;
+}
+.model_dialouge
+{
+    width: 90%;
+}
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
